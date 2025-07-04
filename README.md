@@ -28,7 +28,7 @@ Explore the live version of the project here: [Smart Hiring Hub](https://smart-h
 - Use the statistics section to monitor application trends.
 - Contact the developer for custom deployment or source code access.
 
-## Screenshots and Page Descriptions
+## Page Descriptions
 
 ![Applicants' Home Page](images/applicants_home.png)
 - **Description**: This is the main landing page for applicants. It features a welcoming "Job Application Portal" banner, filters for job search (Department, Job Type, Location), and a list of available positions (e.g., "Finance & Accounting Lead"). Applicants can click "Apply" to start the application process, making it easy to find and apply for suitable roles.
