@@ -12,7 +12,7 @@ The **Smart Hiring Hub** is an innovative Applicant Tracking System (ATS) design
 - **Secure Access**: Admin dashboard with password protection.
 
 ## Live Demo
-Explore the live version of the project here: [Smart Hiring Hub](https://smart-hiring-hub.onrender.com/)
+Explore the live version of the project here: [Smart Hiring Hub](http://161.35.166.143:8501/)
 
 ## Usage Instructions
 ### For Applicants:
